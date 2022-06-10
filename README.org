@@ -1,0 +1,7 @@
+* Guix Channel Manager
+
+A guix subcommand to easily manage =channels.scm= files.
+
+* Features
+
+- Update channels to their latest revision and then lock them
